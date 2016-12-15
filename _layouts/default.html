@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <!-- <link rel="icon" href="../../favicon.ico"> -->
 
-    <title>Lawrence Huang</title>
+    <title>Lawrencecyh</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/res/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -18,40 +18,43 @@
   </head>
 
   <body>
+      <!-- Navigation -->
+      <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+          <div class="container-fluid">
+              <!-- Brand and toggle get grouped for better mobile display -->
+              <div class="navbar-header page-scroll">
+                  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#fixed-navbar-collapse">
+                      <span class="sr-only">Toggle navigation</span>
+                      Menu <i class="fa fa-bars"></i>
+                  </button>
+                  <a class="navbar-brand" href="index.html">Lawrencecyh</a>
+              </div>
 
-    <div class="site-wrapper">
-
-      <div class="site-wrapper-inner">
-
-        <div class="cover-container">
-
-          <div class="masthead clearfix">
-            <div class="inner">
-              <h3 class="masthead-brand">Lawrence Huang</h3>
-              <nav>
-                <ul class="nav masthead-nav">
-                  <li><a href="/#">Home</a></li>
-                  <li><a href="/about">About</a></li>
-                  <li><a href="/photography">Photography</a></li>
-                  <li><a href="blog">Blog</a></li>
-                </ul>
-              </nav>
-            </div>
+              <!-- Collect the nav links, forms, and other content for toggling -->
+              <div class="collapse navbar-collapse"
+                   id="fixed-navbar-collapse">
+                  <ul class="nav navbar-nav navbar-right">
+                    <li><a href="/#">Home</a></li>
+                    <li><a href="/about">About</a></li>
+                    <li><a href="/photography">Photography</a></li>
+                    <li><a href="blog">Blog</a></li>
+                  </ul>
+              </div>
+              <!-- /.navbar-collapse -->
           </div>
+          <!-- /.container -->
+      </nav>
 
-          {{ content }}
+    {{ content }}
 
-          <div class="mastfoot">
-            <div class="inner">
-              <p>Last updated Nov. 19, 2016</p>
-            </div>
-          </div>
-
+      <div class="mastfoot">
+        <div class="inner">
+          <script language="Javascript">
+          document.write("Last updated on " + document.lastModified +"");
+          </script>
         </div>
-
       </div>
 
-    </div>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
