@@ -10,7 +10,7 @@ title: Blog
         </span>
         <h1> {{ post.title }} </h1>
 
-        {{ post }}
+        {{ post.content }}
 
         </div>
         <hr class="small"
