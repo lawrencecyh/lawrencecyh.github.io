@@ -1,5 +1,3 @@
-
-
 /*
  * Base structure
  */
@@ -20,29 +18,26 @@ body {
 }
 
 .navbar-custom {
-  background-color: rgba(30, 30, 30, 0.3);
+  background-color: rgba(30, 30, 30, 0.8);
   border: none;
 }
 
-.navbar-custom .navbar-nav > li > a {
+.navbar-custom .navbar-nav > li > a,
+.navbar-toggle,
+.navbar-custom .navbar-brand {
     color:#fff;
 }
 
-.navbar-custom .navbar-nav > .active > a,
-.navbar-nav > .active > a:hover,
-.navbar-nav > .active > a:focus {
-    color: #ffffff;
-    background-color:transparent;
-}
-
-.navbar-custom .navbar-brand {
-    color:#eeeeee;
+.navbar-custom .navbar-header > a:hover,
+.navbar-custom .navbar-header > a:focus,
+.navbar-custom .navbar-nav > li > a:hover,
+.navbar-custom .navbar-nav > li > a:focus {
+    color:#aaa;
 }
 
 /*
  * Footer
  */
-
 .mastfoot {
   color: #999; /* IE8 proofing */
   color: rgba(255,255,255,.5);
@@ -53,7 +48,6 @@ body {
 /*
  * Affix and center
  */
-
 @media (min-width: 768px) {
   /* Pull out the header and footer */
   .masthead {
@@ -78,7 +72,7 @@ body {
 
 .intro-header {
   background-color: #333;
-  background: no-repeat bottom center;
+  background: no-repeat center;
   background-size: cover;
   background-attachment: scroll;
   -webkit-background-size: cover;
@@ -94,4 +88,17 @@ body {
   padding: 100px 0 50px;
   color: white;
   text-shadow: 2px 2px 5px black;
+}
+
+.page-div {
+    padding-top: 55px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+@media (min-width: 768px) {
+    .page-div {
+        padding-left: 10%;
+        padding-right: 10%;
+    }
 }

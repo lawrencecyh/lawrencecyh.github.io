@@ -4,7 +4,7 @@ title: Photography
 ---
 
 
-<div style="padding-top: 55px">
+<div class="page-div">
 <h1>This will be my Photography page...</h1>
 <p>Album links:</p>
 <ul>
