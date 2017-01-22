@@ -4,7 +4,6 @@ title: About
 ---
 
 <div class="page-div">
-  <div style="height:30px;"></div>
 
   <h2>Lawrence Huang</h2>
   <p class="lang-en">
