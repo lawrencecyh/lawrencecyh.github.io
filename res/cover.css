@@ -18,7 +18,7 @@ body {
 }
 
 .navbar-custom {
-  background-color: rgba(30, 30, 30, 0.8);
+  background-color: rgba(0, 0, 0, 0.8);
   border: none;
 }
 
@@ -40,34 +40,21 @@ body {
  */
 .mastfoot {
   color: #999; /* IE8 proofing */
-  color: rgba(255,255,255,.5);
-  text-align: right;
+  color: gray;
+  position: fixed;
+  bottom: 0;
+  width:100%;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
-
 /*
- * Affix and center
+ * Hide timestamp section on narrow screens
  */
-@media (min-width: 768px) {
-  /* Pull out the header and footer */
-  .masthead {
-    position: fixed;
-    top: 0;
-  }
-  .mastfoot {
-    position: fixed;
-    bottom: 0;
-  }
-  /* Start the vertical centering */
-  .site-wrapper-inner {
-    vertical-align: middle;
-  }
-  /* Handle the widths */
-  .masthead,
-  .mastfoot,
-  .cover-container {
-    width: 100%; /* Must be percentage or pixels for horizontal alignment */
-  }
+@media (max-width: 500px) {
+    .timestamp {
+        visibility: hidden;
+    }
 }
 
 .intro-header {
@@ -79,6 +66,11 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   height: 100%
+}
+
+.shaded {
+  background: radial-gradient(closest-side, rgba(0, 0, 0, 0.5),transparent);
+  padding: 20px;
 }
 
 .intro-header .site-heading,
