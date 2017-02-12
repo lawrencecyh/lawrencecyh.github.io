@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Test blog post 2"
 date:   2016-12-12 16:34:05 -0800
 category: test
