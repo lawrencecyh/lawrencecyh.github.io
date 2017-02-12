@@ -1,7 +1,8 @@
 ---
 title:  "Test blog post 2"
 date:   2016-12-12 16:34:05 -0800
-categories: jekyll update
+category: test
+tags:
 ---
 Some example Java code
 
