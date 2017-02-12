@@ -3,13 +3,16 @@
  */
 html,
 body {
-  height: 100%;
-  background-color: #DDD;
+  display: block;
+  overflow: auto;
+  background-color: #f2faff;
 }
 
 body {
-  color: black;
+  color: #333;
   text-align: left;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: medium;
 }
 
 .cover-container {
@@ -61,11 +64,10 @@ body {
   background-color: #333;
   background: no-repeat center;
   background-size: cover;
-  background-attachment: scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  height: 100%
+  min-height: 100vh;
 }
 
 .shaded {
@@ -86,13 +88,12 @@ body {
     padding-top: 50px;
     padding-left: 5px;
     padding-right: 5px;
-    padding-bottom: 20px;
 }
 
 @media (min-width: 768px) {
     .page-div {
         padding-top:80px;
-        padding-left: 10%;
-        padding-right: 10%;
+        max-width: 768px;
+        margin: auto;
     }
 }
