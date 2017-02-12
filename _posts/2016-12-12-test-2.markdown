@@ -3,6 +3,8 @@ title:  "Test blog post 2"
 date:   2016-12-12 16:34:05 -0800
 categories: jekyll update
 ---
+Some example Java code
+
 {% highlight java %}
 System.out.println("Nothing to see here. Move along.");
 {% endhighlight %}

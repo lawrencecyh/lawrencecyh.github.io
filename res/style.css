@@ -97,3 +97,8 @@ body {
         margin: auto;
     }
 }
+
+.readmore {
+  text-align: right;
+  padding-right: 5%
+}
