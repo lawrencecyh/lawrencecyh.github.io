@@ -2,18 +2,13 @@
 layout: content
 comments: true
 ---
-<h1>{{ page.title }}</h1>
+<h2>{{ page.title }}</h2>
 <p>{{ page.date | date_to_string }}</p>
 
 {{ content }}
 
-<hr>
 <div id="disqus_thread"></div>
 <script>
-var disqus_config = function () {
-this.page.url = lawrencecyh.github.io;
-this.page.identifier = Parallax;
-};
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
 s.src = '//lawre.disqus.com/embed.js';

@@ -100,5 +100,9 @@ body {
 
 .readmore {
   text-align: right;
-  padding-right: 5%
+  padding-right: 5%;
+}
+
+.divider {
+  width: 75%;
 }
