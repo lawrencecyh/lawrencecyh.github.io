@@ -1,5 +1,5 @@
 ---
-layout: content
+layout: default
 comments: true
 ---
 <div class="post">

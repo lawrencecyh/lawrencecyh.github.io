@@ -1,6 +1,5 @@
 ---
-layout: content
-title: Blog
+layout: default
 ---
 {% for post in site.posts %}
 
