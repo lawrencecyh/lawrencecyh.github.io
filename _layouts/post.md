@@ -3,9 +3,13 @@ layout: default
 comments: true
 ---
 <div class="post">
-<p>{{ page.date | date_to_string }}</p>
+
+{{ page.date | date_to_string }}
+
 <h2>{{ page.title }}</h2>
+
 {{ content }}
+
 </div>
 
 <div id="disqus_thread" class="disqus-box">

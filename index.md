@@ -5,9 +5,9 @@ layout: default
 
 <div class="excerpt" onclick="location.href='{{post.url}}';">
 
-<h2>{{ post.title }}</h2>
-
 {{ post.date | date_to_string }}
+
+<h2>{{ post.title }}</h2>
 
 <p>{{ post.excerpt }}</p>
 </div>
