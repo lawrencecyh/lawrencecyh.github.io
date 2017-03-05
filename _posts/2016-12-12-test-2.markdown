@@ -11,4 +11,20 @@ Some example Java code
 System.out.println("Nothing to see here. Move along.");
 {% endhighlight %}
 
-{% highlight java %} System.out.println("Hello:) Yooooooo!! Can this work??? Haha it feels so awkward 這邊可以打中文嗎?? Hummmm... don't know what to write about... I just blank out staring at these CODES... How could you work with them everyday, SERIOUSLY?!!! And this thing doesn't even autocorrect !!! kk. I'm so sorry but I still feel like I have to say.... this probably is the end of my programing life. Don't laugh..... delete this right away PLEASE. "); {% endhighlight %}
+*italic*
+
+**bold**
+
+~~strikethrough~~
+
+A [link][google]
+
+******
+
+# Header1
+
+## Header2
+
+### Header3
+
+[google]: http://google.com

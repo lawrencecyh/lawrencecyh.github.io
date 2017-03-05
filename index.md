@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: content
 ---
 {% for post in site.posts %}
 
