@@ -58,7 +58,16 @@
       <!-- /.container -->
     </nav>
 
-    {{ content }}
+    {% if page.header-background %}
+      <div class="intro-header" style="background-image: url('{{page.header-background}}')">
+      </div>
+    {% else %}
+      <div style="padding-top: 50px;">
+    {% endif %}
+
+    <div class="page-div">
+      {{ content }}
+    </div>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->

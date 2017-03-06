@@ -1,10 +1,12 @@
 ---
-layout: content
+layout: default
 comments: true
 ---
 <div class="post">
 
-{{ page.date | date_to_string }}
+<p class="datestring">
+    {{ page.date | date_to_string }}
+</p>
 
 <h2>{{ page.title }}</h2>
 

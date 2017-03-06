@@ -6,7 +6,6 @@ category: test
 tags:
 ---
 Some example Java code
-
 {% highlight java %}
 System.out.println("Nothing to see here. Move along.");
 {% endhighlight %}
