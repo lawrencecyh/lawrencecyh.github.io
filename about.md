@@ -22,7 +22,7 @@ header-background: /res/pano2.jpg
 
 <div class="post">
   <div style="text-align: center;">
-  <h2>About Parallax</h2>
+    <h2>About Parallax</h2>
   </div>
 
 <p class="lang-en">

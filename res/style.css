@@ -30,13 +30,20 @@ body {
 .navbar-toggle,
 .navbar-custom .navbar-brand {
     color:#ebebeb;
+    border-color: transparent;
+}
+
+.navbar-toggle {
+  height: 30px;
+  padding: 3px;
 }
 
 .navbar-custom .navbar-header > a:hover,
 .navbar-custom .navbar-header > a:focus,
 .navbar-custom .navbar-nav > li > a:hover,
 .navbar-custom .navbar-nav > li > a:focus {
-    color:#aaa;
+    color: #aaa;
+    background-color: transparent;
 }
 
 /*
@@ -65,12 +72,6 @@ body {
   padding-left: 5px;
   padding-right: 5px;
   margin: auto;
-}
-
-@media (max-width: 768px) {
-  .intro-header {
-    min-height: 33vh;
-  }
 }
 
 .divider {
