@@ -35,7 +35,7 @@ Parallax亦即視角差，指的是一個物體的位置或角度因為觀察者
 這個網站的目的不過就是讓我有條理地把想法記錄下來。內容從時事評論到程式設計，甚至是生活中一些值得紀念的小事都有。希望每個人都能在這裡找到一點屬於自己的東西。
 </p>
 <hr>
-Chinese and English versions are often written separately, so contents may not be accurate translations of each other.<br>
+Chinese and English versions are often written separately, so contents may not be accurate translations of one another.<br>
 中英文兩版通常分開撰寫而非相互翻譯，所以內容有時會有些許落差。
 </div>
 
