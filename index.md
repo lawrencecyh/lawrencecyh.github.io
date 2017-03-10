@@ -14,6 +14,10 @@ header-background: /res/pano.jpg
 <h2>{{ post.title }}</h2>
 
 <p>{{ post.excerpt }}</p>
+
+<span class="readmore">
+    <img src="/res/ic_nav_next.svg"/>
+</span>
 </div>
 
 {% endfor %}
