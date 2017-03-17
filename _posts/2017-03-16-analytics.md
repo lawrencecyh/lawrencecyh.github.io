@@ -3,9 +3,9 @@ layout: post
 title:  "Analytics"
 tags: Journal English
 ---
-Despite working for perhaps the largest Internet company in the world, I must admit I have no idea how to properly write or manage a website. But I guess everybody has to start somewhere, right? To improve the design and increase user engagement using a data-driven approach, I've integrated a subset of tracking features provided by Google Analytics.
+Despite working for perhaps the largest Internet company in the world, I must admit I have no idea how to properly write or manage a website. But I guess everybody has to start somewhere, right?
 
-Here's how it works, and what I've learned so far.
+To improve the design and increase user engagement using a data-driven approach, I've integrated a subset of tracking features provided by Google Analytics. Here's how it works, and what I've learned so far.
 
 <!--endexcerpt-->
 *****
