@@ -5,7 +5,7 @@ tags: Travel English
 ---
 It looks like we are way overdue for an update. Time really flies when you're working hard to make the next release of Android not suck, doesn't it?
 
-Anyhow, to make up for the hiatus, I'm back at it to entertain you with some highlights of my recent east coast excursion. Enjoy!
+All jokes aside, I have been busy with multiple other things, so sorry about the inactivity. To make up for the hiatus, I'm back at it to entertain you with some highlights of my recent east coast excursion. Enjoy!
 
 <!--endexcerpt-->
 *****
