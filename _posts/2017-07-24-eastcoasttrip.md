@@ -10,7 +10,7 @@ All jokes aside, I have been busy with multiple other things, so sorry about the
 <!--endexcerpt-->
 *****
 
-The stated reason for this trip was to go to Toronto for a Muse concert (and food. It's always about food.) But then we figured since we're already flying all the way there, might as well include a couple more cities just because why not. And so plane tickets were booked and I hopped on a red-eye flight to Toronto.
+The stated reason for this trip was to go to Toronto for a Muse concert (and food. It's always about food.) But then we figured since we're already flying all the way there, might as well include a couple more cities, just because why not. And so plane tickets were booked and I hopped on a red-eye flight to Toronto.
 
 ***July 14-15, 2017***
 
@@ -46,7 +46,7 @@ Above: view from dinner table at [Maison Boulud][Boulud]. No ducks were harmed i
 
 Drove back to Toronto while stopping by Sandbanks Provincial Park and Drake again on the way back. We then goofed around for a day until the Muse concert at night. Let's just say that Matt Bellamy is even better live than he is in recordings. The showboating certainly doesn't hurt either.
 
-Sunset at outlet beach, Sandbanks Provincial Park:
+Sunset at Outlet Beach, Sandbanks Provincial Park:
 ![sandbanks](/res/blog/2017-07-23-east-coast/sandbanks.jpg)
 
 Beer flight with a very interesting beer schnapps from Mill Street's Toronto brewery tour:
@@ -61,7 +61,7 @@ I now move on to the final leg of my trip -- New York. The remaining details are
 
 ***Fine Dining***
 
-After landing, Vanessa and I make our way to [Sushi Nakazawa][Nakazawa], the famous sushi bar hidden in West Village. The food was good but not particularly memorable, although I did enjoy the live botan-ebi (albeit the excessive finger lime on top). We both agreed the rice had a slight taste to it that interfered with the fish a little, but couldn't pinpoint what it was other than a hint of saltiness. What irritated me more, however, was the pretentious black/white decor and waiting staff dressed in suits. Compared to many other great and welcoming sushi bars that I've been to, the ambiance in Nakazawa just feels too uptight and arrogant for me to fully appreciate a relaxing meal.
+After landing, Vanessa and I make our way to [Sushi Nakazawa][Nakazawa], the famous sushi bar hidden in West Village. The food was good but not particularly memorable, although I did enjoy the live botan-ebi (albeit the excessive finger lime on top). We both agreed the rice had a slight taste to it that interfered with the fish a little, but couldn't pinpoint what it was other than a hint of saltiness. What irritated me more, however, was the pretentious black/white decor and waiting staff dressed in suits. Compared to many other great and welcoming sushi bars that I've been to, the ambiance in Nakazawa just feels too uptight and businesslike for me to fully appreciate a relaxing meal.
 
 On the other hand, our trip the following day to the three-star French restaurant [Le Bernardin][Bernardin] was much more impressive. This seafood-specializing spot had a lovely dining room and great selection of courses to satisfy anyone's appetite. We went with the four-course, prix-fixe menu that comes with your choice of three courses and a dessert.  Being a shameless shellfish addict, I ended up going with geoduck sashimi, seared langoustine, baked lobster, and homemade sorbet. I had high hopes for the Scotland-imported langoustine, but it was the geoduck with ginger-ponzu dressing that really made my day. T'was good food and good company -- what else could one ask for?
 ![geoduck](/res/blog/2017-07-23-east-coast/geoduck.jpg)
@@ -71,10 +71,10 @@ On the other hand, our trip the following day to the three-star French restauran
 Since I decided to work remotely from Google's NYC office at [111 Eighth Avenue][GoogleBuilding] for two days, I figured I might as well spend some time exploring the little surprises it has to offer. The first gem was this library on the fifth floor with some innocuous-looking bookshelves:
 ![closed](/res/blog/2017-07-23-east-coast/library_closed.jpg)
 
-Except they could rotate to reveal the secret nap rooms inside, just because why not?
+Except they could rotate to reveal the secret nap rooms inside. Again, just because why not?
 ![opened](/res/blog/2017-07-23-east-coast/library_opened.jpg)
 
-Next up, somebody thought it was a good idea to take out parts of the floors and make an atrium between the eighth and eleventh floors. Looks pretty good actually:
+Next up, somebody thought it was a good idea to take out parts of the floors and make an atrium between the eighth and tenth floors. Looks pretty good actually:
 ![interior](/res/blog/2017-07-23-east-coast/google_interior.jpg)
 Left: view from 8th floor. Above right: view from the 10th-floor couch I worked from. Bottom right: ludicrous cauliflower dish from the cafeteria at lunch.
 
