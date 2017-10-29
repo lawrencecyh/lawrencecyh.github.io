@@ -111,8 +111,11 @@ body {
   margin: -20px;
 }
 
-.post img {
+.post img{
   width: 90%;
+}
+
+.post img, iframe {
   display: block;
   margin: 0 auto;
 }

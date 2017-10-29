@@ -1,6 +1,6 @@
 ---
 layout: default
-header-background: /res/pano.jpg
+header-background: /res/pano3.jpg
 ---
 
 {% for post in site.posts %}
