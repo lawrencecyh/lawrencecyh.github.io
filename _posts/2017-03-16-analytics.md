@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Analytics"
-tags: Journal English
+tags: Tech English
 ---
 Despite working for perhaps the largest Internet company in the world, I must admit I have no idea how to properly write or manage a website. But I guess everybody has to start somewhere, right?
 

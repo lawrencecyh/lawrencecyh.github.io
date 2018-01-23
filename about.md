@@ -17,6 +17,8 @@ header-background: /res/pano2.jpg
   </p>
 
   <br>
+  Join the <a href="https://groups.google.com/forum/#!forum/parallax-readers">mailing list</a> to subscribe for new content
+  <br>
   contact@lawrencecyh.me
 </div>
 
