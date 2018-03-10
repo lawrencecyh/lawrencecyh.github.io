@@ -7,7 +7,7 @@ tags: Travel Chinese English
 前陣子不知道哪根筋不對約了3/9做年度健檢，結果搞得生日當天晚上得禁食。真是有點莫名其妙<br>
 不過不論如何，我又平安的老一歲了，謝謝大家 :)
 
-I don't know what got into me, but I happened to schedule my annual physical exam to be on the morning of 3/9. As a result, I had to fast on the night of my birthday. Tough luck.<br>
+I don't know what got into me, but I happened to schedule my annual physical exam to be in the morning of 3/9. As a result, I had to fast on the night of my birthday. Tough luck.<br>
 But on the bright side, I just grew another year older. Thanks for the birthday wishes :)
 
 <!--endexcerpt-->
@@ -43,7 +43,7 @@ The thing that I loved most about this trip was definitely taking a few extra da
 
 **Future**
 
-幾個月來跟許多人聊過工作以及人生規劃，又讓我萌生想回去讀書的想法。總覺得要趁這幾年再挑戰自己、逼自己多學點東西。不但是為了興趣，也是為了打開未來的一扇窗。不過，由於現在的工作又有點讓我放不下，所以暫時應該會往在職進修碩士學位的方向去努力。一切順利的話，2019年就可以再次成為學生了。對次有經驗的人麻煩請多多跟我分享XD
+幾個月來跟許多人聊過工作以及人生規劃，又讓我萌生回去讀書的想法。總覺得要趁這幾年再挑戰一下自己、逼自己多學點東西。不但是為了興趣，也是為了打開未來的一扇窗。不過，由於現在的工作又有點讓我放不下，所以暫時應該會往在職進修碩士學位的方向去努力。一切順利的話，2019年就可以再次成為學生了。對次有經驗的人麻煩請多多跟我分享XD
 
 I chatted with many people over the last few months about work and career planning. The idea of going back to school has grown a little on me, and I want to push myself to learn some more and open some doors in the future. However, since I still love my job and find it hard to leave it completely, I'll probably end up doing some sort of part-time MS degree. If all goes well, I'll become a student again in the fall of 2019. Please do share any related experiences if you have any!
 
