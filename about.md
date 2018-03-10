@@ -17,9 +17,10 @@ header-background: /res/pano2.jpg
   </p>
 
   <br>
-  Join the <a href="https://groups.google.com/forum/#!forum/parallax-readers">mailing list</a> to subscribe for new content
-  <br>
   contact@lawrencecyh.me
+  <br>
+  <br>
+  <input type="button" class="button" onclick="window.open('https://groups.google.com/forum/#!forum/parallax-readers')" class="button" value="Subscribe | 訂閱"/>
 </div>
 
 <div class="post">
